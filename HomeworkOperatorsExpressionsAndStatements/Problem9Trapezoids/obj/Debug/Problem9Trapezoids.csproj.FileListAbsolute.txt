@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\HomeworkOperatorsExpressionsAndStatements\Problem9Trapezoids\bin\Debug\Problem9Trapezoids.exe.config
+C:\Users\User\Desktop\HomeworkOperatorsExpressionsAndStatements\Problem9Trapezoids\bin\Debug\Problem9Trapezoids.exe
+C:\Users\User\Desktop\HomeworkOperatorsExpressionsAndStatements\Problem9Trapezoids\bin\Debug\Problem9Trapezoids.pdb
+C:\Users\User\Desktop\HomeworkOperatorsExpressionsAndStatements\Problem9Trapezoids\obj\Debug\Problem9Trapezoids.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\HomeworkOperatorsExpressionsAndStatements\Problem9Trapezoids\obj\Debug\Problem9Trapezoids.exe
+C:\Users\User\Desktop\HomeworkOperatorsExpressionsAndStatements\Problem9Trapezoids\obj\Debug\Problem9Trapezoids.pdb

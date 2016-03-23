@@ -1,0 +1,5 @@
+C:\Users\User\Desktop\HomeworkPrimitiveDataTypeAndVariables\Problem4UnicodeCharacter\bin\Debug\Problem4UnicodeCharacter.exe.config
+C:\Users\User\Desktop\HomeworkPrimitiveDataTypeAndVariables\Problem4UnicodeCharacter\bin\Debug\Problem4UnicodeCharacter.exe
+C:\Users\User\Desktop\HomeworkPrimitiveDataTypeAndVariables\Problem4UnicodeCharacter\bin\Debug\Problem4UnicodeCharacter.pdb
+C:\Users\User\Desktop\HomeworkPrimitiveDataTypeAndVariables\Problem4UnicodeCharacter\obj\Debug\Problem4UnicodeCharacter.exe
+C:\Users\User\Desktop\HomeworkPrimitiveDataTypeAndVariables\Problem4UnicodeCharacter\obj\Debug\Problem4UnicodeCharacter.pdb

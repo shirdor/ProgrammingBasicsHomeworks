@@ -1,0 +1,5 @@
+C:\Users\User\Desktop\HomeworkOperatorsExpressionsAndStatements\Problem2GravitationOnTheMoon\bin\Debug\Problem2GravitationOnTheMoon.exe.config
+C:\Users\User\Desktop\HomeworkOperatorsExpressionsAndStatements\Problem2GravitationOnTheMoon\bin\Debug\Problem2GravitationOnTheMoon.exe
+C:\Users\User\Desktop\HomeworkOperatorsExpressionsAndStatements\Problem2GravitationOnTheMoon\bin\Debug\Problem2GravitationOnTheMoon.pdb
+C:\Users\User\Desktop\HomeworkOperatorsExpressionsAndStatements\Problem2GravitationOnTheMoon\obj\Debug\Problem2GravitationOnTheMoon.exe
+C:\Users\User\Desktop\HomeworkOperatorsExpressionsAndStatements\Problem2GravitationOnTheMoon\obj\Debug\Problem2GravitationOnTheMoon.pdb

@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\HomeworkOperatorsExpressionsAndStatements\Problem3DivideBy7And5\bin\Debug\Problem3DivideBy7And5.exe.config
+C:\Users\User\Desktop\HomeworkOperatorsExpressionsAndStatements\Problem3DivideBy7And5\bin\Debug\Problem3DivideBy7And5.exe
+C:\Users\User\Desktop\HomeworkOperatorsExpressionsAndStatements\Problem3DivideBy7And5\bin\Debug\Problem3DivideBy7And5.pdb
+C:\Users\User\Desktop\HomeworkOperatorsExpressionsAndStatements\Problem3DivideBy7And5\obj\Debug\Problem3DivideBy7And5.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\HomeworkOperatorsExpressionsAndStatements\Problem3DivideBy7And5\obj\Debug\Problem3DivideBy7And5.exe
+C:\Users\User\Desktop\HomeworkOperatorsExpressionsAndStatements\Problem3DivideBy7And5\obj\Debug\Problem3DivideBy7And5.pdb

@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\HomeworkPrimitiveDataTypeAndVariables\Problem1DeclareVariables\bin\Debug\Problem1DeclareVariables.exe.config
+C:\Users\User\Desktop\HomeworkPrimitiveDataTypeAndVariables\Problem1DeclareVariables\bin\Debug\Problem1DeclareVariables.exe
+C:\Users\User\Desktop\HomeworkPrimitiveDataTypeAndVariables\Problem1DeclareVariables\bin\Debug\Problem1DeclareVariables.pdb
+C:\Users\User\Desktop\HomeworkPrimitiveDataTypeAndVariables\Problem1DeclareVariables\obj\Debug\Problem1DeclareVariables.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\HomeworkPrimitiveDataTypeAndVariables\Problem1DeclareVariables\obj\Debug\Problem1DeclareVariables.exe
+C:\Users\User\Desktop\HomeworkPrimitiveDataTypeAndVariables\Problem1DeclareVariables\obj\Debug\Problem1DeclareVariables.pdb

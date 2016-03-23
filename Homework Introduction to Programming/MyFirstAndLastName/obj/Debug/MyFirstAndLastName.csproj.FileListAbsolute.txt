@@ -1,0 +1,11 @@
+c:\users\antonio\documents\visual studio 2013\Projects\Solution1\MyFirstAndLastName\bin\Debug\MyFirstAndLastName.exe.config
+c:\users\antonio\documents\visual studio 2013\Projects\Solution1\MyFirstAndLastName\bin\Debug\MyFirstAndLastName.exe
+c:\users\antonio\documents\visual studio 2013\Projects\Solution1\MyFirstAndLastName\bin\Debug\MyFirstAndLastName.pdb
+c:\users\antonio\documents\visual studio 2013\Projects\Solution1\MyFirstAndLastName\obj\Debug\MyFirstAndLastName.exe
+c:\users\antonio\documents\visual studio 2013\Projects\Solution1\MyFirstAndLastName\obj\Debug\MyFirstAndLastName.pdb
+C:\Users\antonio\Desktop\Homework Introduction to Programming\MyFirstAndLastName\bin\Debug\MyFirstAndLastName.exe.config
+C:\Users\antonio\Desktop\Homework Introduction to Programming\MyFirstAndLastName\obj\Debug\MyFirstAndLastName.exe
+C:\Users\antonio\Desktop\Homework Introduction to Programming\MyFirstAndLastName\obj\Debug\MyFirstAndLastName.pdb
+C:\Users\antonio\Desktop\Homework Introduction to Programming\MyFirstAndLastName\bin\Debug\MyFirstAndLastName.exe
+C:\Users\antonio\Desktop\Homework Introduction to Programming\MyFirstAndLastName\bin\Debug\MyFirstAndLastName.pdb
+C:\Users\antonio\Desktop\Homework Introduction to Programming\MyFirstAndLastName\obj\Debug\MyFirstAndLastName.csprojResolveAssemblyReference.cache

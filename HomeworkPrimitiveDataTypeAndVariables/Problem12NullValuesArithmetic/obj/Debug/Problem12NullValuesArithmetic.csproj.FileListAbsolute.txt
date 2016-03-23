@@ -1,0 +1,5 @@
+C:\Users\User\Desktop\HomeworkPrimitiveDataTypeAndVariables\Problem12NullValuesArithmetic\bin\Debug\Problem12NullValuesArithmetic.exe.config
+C:\Users\User\Desktop\HomeworkPrimitiveDataTypeAndVariables\Problem12NullValuesArithmetic\bin\Debug\Problem12NullValuesArithmetic.exe
+C:\Users\User\Desktop\HomeworkPrimitiveDataTypeAndVariables\Problem12NullValuesArithmetic\bin\Debug\Problem12NullValuesArithmetic.pdb
+C:\Users\User\Desktop\HomeworkPrimitiveDataTypeAndVariables\Problem12NullValuesArithmetic\obj\Debug\Problem12NullValuesArithmetic.exe
+C:\Users\User\Desktop\HomeworkPrimitiveDataTypeAndVariables\Problem12NullValuesArithmetic\obj\Debug\Problem12NullValuesArithmetic.pdb

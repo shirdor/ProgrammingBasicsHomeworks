@@ -1,0 +1,5 @@
+C:\Users\User\Desktop\HomeworkLoops\Problem7CalculateAgain\bin\Debug\Problem7CalculateAgain.exe.config
+C:\Users\User\Desktop\HomeworkLoops\Problem7CalculateAgain\obj\Debug\Problem7CalculateAgain.exe
+C:\Users\User\Desktop\HomeworkLoops\Problem7CalculateAgain\obj\Debug\Problem7CalculateAgain.pdb
+C:\Users\User\Desktop\HomeworkLoops\Problem7CalculateAgain\bin\Debug\Problem7CalculateAgain.exe
+C:\Users\User\Desktop\HomeworkLoops\Problem7CalculateAgain\bin\Debug\Problem7CalculateAgain.pdb

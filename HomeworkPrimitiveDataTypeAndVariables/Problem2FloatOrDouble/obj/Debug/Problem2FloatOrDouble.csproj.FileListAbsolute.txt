@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\HomeworkPrimitiveDataTypeAndVariables\Problem2FloatOrDouble\bin\Debug\Problem2FloatOrDouble.exe.config
+C:\Users\User\Desktop\HomeworkPrimitiveDataTypeAndVariables\Problem2FloatOrDouble\bin\Debug\Problem2FloatOrDouble.exe
+C:\Users\User\Desktop\HomeworkPrimitiveDataTypeAndVariables\Problem2FloatOrDouble\bin\Debug\Problem2FloatOrDouble.pdb
+C:\Users\User\Desktop\HomeworkPrimitiveDataTypeAndVariables\Problem2FloatOrDouble\obj\Debug\Problem2FloatOrDouble.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\HomeworkPrimitiveDataTypeAndVariables\Problem2FloatOrDouble\obj\Debug\Problem2FloatOrDouble.exe
+C:\Users\User\Desktop\HomeworkPrimitiveDataTypeAndVariables\Problem2FloatOrDouble\obj\Debug\Problem2FloatOrDouble.pdb

@@ -1,0 +1,6 @@
+C:\Users\antonio\Desktop\Homework Introduction to Programming\CurrentDateAndTime\bin\Debug\CurrentDateAndTime.exe.config
+C:\Users\antonio\Desktop\Homework Introduction to Programming\CurrentDateAndTime\bin\Debug\CurrentDateAndTime.exe
+C:\Users\antonio\Desktop\Homework Introduction to Programming\CurrentDateAndTime\bin\Debug\CurrentDateAndTime.pdb
+C:\Users\antonio\Desktop\Homework Introduction to Programming\CurrentDateAndTime\obj\Debug\CurrentDateAndTime.csprojResolveAssemblyReference.cache
+C:\Users\antonio\Desktop\Homework Introduction to Programming\CurrentDateAndTime\obj\Debug\CurrentDateAndTime.exe
+C:\Users\antonio\Desktop\Homework Introduction to Programming\CurrentDateAndTime\obj\Debug\CurrentDateAndTime.pdb

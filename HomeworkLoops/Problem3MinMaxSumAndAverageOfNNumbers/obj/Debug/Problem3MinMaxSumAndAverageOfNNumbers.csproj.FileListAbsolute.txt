@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\HomeworkLoops\Problem3MinMaxSumAndAverageOfNNumbers\bin\Debug\Problem3MinMaxSumAndAverageOfNNumbers.exe.config
+C:\Users\User\Desktop\HomeworkLoops\Problem3MinMaxSumAndAverageOfNNumbers\bin\Debug\Problem3MinMaxSumAndAverageOfNNumbers.exe
+C:\Users\User\Desktop\HomeworkLoops\Problem3MinMaxSumAndAverageOfNNumbers\bin\Debug\Problem3MinMaxSumAndAverageOfNNumbers.pdb
+C:\Users\User\Desktop\HomeworkLoops\Problem3MinMaxSumAndAverageOfNNumbers\obj\Debug\Problem3MinMaxSumAndAverageOfNNumbers.exe
+C:\Users\User\Desktop\HomeworkLoops\Problem3MinMaxSumAndAverageOfNNumbers\obj\Debug\Problem3MinMaxSumAndAverageOfNNumbers.pdb
+C:\Users\User\Desktop\HomeworkLoops\Problem3MinMaxSumAndAverageOfNNumbers\obj\Debug\Problem3MinMaxSumAndAverageOfNNumbers.csprojResolveAssemblyReference.cache

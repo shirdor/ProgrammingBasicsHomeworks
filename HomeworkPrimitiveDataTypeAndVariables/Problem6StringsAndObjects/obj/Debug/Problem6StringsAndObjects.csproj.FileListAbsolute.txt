@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\HomeworkPrimitiveDataTypeAndVariables\Problem6StringsAndObjects\bin\Debug\Problem6StringsAndObjects.exe.config
+C:\Users\User\Desktop\HomeworkPrimitiveDataTypeAndVariables\Problem6StringsAndObjects\bin\Debug\Problem6StringsAndObjects.exe
+C:\Users\User\Desktop\HomeworkPrimitiveDataTypeAndVariables\Problem6StringsAndObjects\bin\Debug\Problem6StringsAndObjects.pdb
+C:\Users\User\Desktop\HomeworkPrimitiveDataTypeAndVariables\Problem6StringsAndObjects\obj\Debug\Problem6StringsAndObjects.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\HomeworkPrimitiveDataTypeAndVariables\Problem6StringsAndObjects\obj\Debug\Problem6StringsAndObjects.exe
+C:\Users\User\Desktop\HomeworkPrimitiveDataTypeAndVariables\Problem6StringsAndObjects\obj\Debug\Problem6StringsAndObjects.pdb

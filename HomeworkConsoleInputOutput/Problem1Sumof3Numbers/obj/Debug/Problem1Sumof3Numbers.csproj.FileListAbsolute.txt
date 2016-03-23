@@ -1,0 +1,9 @@
+C:\Users\User\Desktop\HomeworkConsoleInputOutput\Problem1Sumof3Numbers\bin\Debug\Problem1Sumof3Numbers.exe.config
+C:\Users\User\Desktop\HomeworkConsoleInputOutput\Problem1Sumof3Numbers\bin\Debug\Problem1Sumof3Numbers.exe
+C:\Users\User\Desktop\HomeworkConsoleInputOutput\Problem1Sumof3Numbers\bin\Debug\Problem1Sumof3Numbers.pdb
+C:\Users\User\Desktop\HomeworkConsoleInputOutput\Problem1Sumof3Numbers\obj\Debug\Problem1Sumof3Numbers.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\HomeworkConsoleInputOutput\Problem1Sumof3Numbers\obj\Debug\Problem1Sumof3Numbers.exe
+C:\Users\User\Desktop\HomeworkConsoleInputOutput\Problem1Sumof3Numbers\obj\Debug\Problem1Sumof3Numbers.pdb
+C:\Users\User\Desktop\SoftUni Homewroks\Programming Basic\HomeworkConsoleInputOutput\Problem1Sumof3Numbers\bin\Debug\Problem1Sumof3Numbers.exe.config
+C:\Users\User\Desktop\SoftUni Homewroks\Programming Basic\HomeworkConsoleInputOutput\Problem1Sumof3Numbers\obj\Debug\Problem1Sumof3Numbers.exe
+C:\Users\User\Desktop\SoftUni Homewroks\Programming Basic\HomeworkConsoleInputOutput\Problem1Sumof3Numbers\obj\Debug\Problem1Sumof3Numbers.pdb

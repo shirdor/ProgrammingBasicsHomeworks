@@ -1,0 +1,6 @@
+C:\Users\antonio\Desktop\Homework Introduction to Programming\PrintLongSequence\bin\Debug\PrintLongSequence.exe.config
+C:\Users\antonio\Desktop\Homework Introduction to Programming\PrintLongSequence\obj\Debug\PrintLongSequence.csprojResolveAssemblyReference.cache
+C:\Users\antonio\Desktop\Homework Introduction to Programming\PrintLongSequence\bin\Debug\PrintLongSequence.exe
+C:\Users\antonio\Desktop\Homework Introduction to Programming\PrintLongSequence\bin\Debug\PrintLongSequence.pdb
+C:\Users\antonio\Desktop\Homework Introduction to Programming\PrintLongSequence\obj\Debug\PrintLongSequence.exe
+C:\Users\antonio\Desktop\Homework Introduction to Programming\PrintLongSequence\obj\Debug\PrintLongSequence.pdb

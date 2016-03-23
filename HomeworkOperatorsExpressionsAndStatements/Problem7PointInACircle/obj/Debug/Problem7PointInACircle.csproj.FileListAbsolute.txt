@@ -1,0 +1,5 @@
+C:\Users\User\Desktop\HomeworkOperatorsExpressionsAndStatements\Problem7PointInACircle\bin\Debug\Problem7PointInACircle.exe.config
+C:\Users\User\Desktop\HomeworkOperatorsExpressionsAndStatements\Problem7PointInACircle\bin\Debug\Problem7PointInACircle.exe
+C:\Users\User\Desktop\HomeworkOperatorsExpressionsAndStatements\Problem7PointInACircle\bin\Debug\Problem7PointInACircle.pdb
+C:\Users\User\Desktop\HomeworkOperatorsExpressionsAndStatements\Problem7PointInACircle\obj\Debug\Problem7PointInACircle.exe
+C:\Users\User\Desktop\HomeworkOperatorsExpressionsAndStatements\Problem7PointInACircle\obj\Debug\Problem7PointInACircle.pdb

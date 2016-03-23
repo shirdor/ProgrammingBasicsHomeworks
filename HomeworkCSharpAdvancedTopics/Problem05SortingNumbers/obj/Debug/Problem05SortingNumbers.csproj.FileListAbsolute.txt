@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\HomeworkCSharpAdvancedTopics\Problem05SortingNumbers\bin\Debug\Problem05SortingNumbers.exe.config
+C:\Users\User\Desktop\HomeworkCSharpAdvancedTopics\Problem05SortingNumbers\bin\Debug\Problem05SortingNumbers.exe
+C:\Users\User\Desktop\HomeworkCSharpAdvancedTopics\Problem05SortingNumbers\bin\Debug\Problem05SortingNumbers.pdb
+C:\Users\User\Desktop\HomeworkCSharpAdvancedTopics\Problem05SortingNumbers\obj\Debug\Problem05SortingNumbers.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\HomeworkCSharpAdvancedTopics\Problem05SortingNumbers\obj\Debug\Problem05SortingNumbers.exe
+C:\Users\User\Desktop\HomeworkCSharpAdvancedTopics\Problem05SortingNumbers\obj\Debug\Problem05SortingNumbers.pdb

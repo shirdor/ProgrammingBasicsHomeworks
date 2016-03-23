@@ -1,0 +1,51 @@
+                                             Development Environments
+1-Microsoft Visual Studio
+Microsoft Visual Studio is an integrated development environment (IDE) from Microsoft. 
+It is used to develop computer programs for Microsoft Windows, as well as web sites, web applications and web services. 
+Visual Studio uses Microsoft software development platforms such as Windows API, Windows Forms, Windows Presentation Foundation, Windows Store and Microsoft Silverlight. 
+It can produce both native code and managed code.
+
+2-NetBeans
+NetBeans is a software development platform written in Java. 
+The NetBeans Platform allows applications to be developed from a set of modular software components called modules. 
+Applications based on the NetBeans Platform, including the NetBeans integrated development environment (IDE), can be extended by third party developers.
+The NetBeans IDE is primarily intended for development in Java, but also supports other languages, in particular PHP, C/C++ and HTML5.
+
+3-PhpStorm
+JetBrains PhpStorm is a commercial, cross-platform IDE for PHP built on JetBrains' IntelliJ IDEA platform.
+PhpStorm provides an editor for PHP, HTML and JavaScript with on-the-fly code analysis, error prevention and automated refactorings for PHP and JavaScript code. 
+PhpStorm's code completion supports PHP 5.3 ... 5.6 (modern and legacy projects), including generators, coroutines, the finally keyword, list in foreach, namespaces, closures, traits and short array syntax. 
+It includes a full-fledged SQL editor with editable query results.
+
+4-Eclipse
+In computer programming, Eclipse is an integrated development environment (IDE). 
+It contains a base workspace and an extensible plug-in system for customizing the environment. 
+Eclipse is written mostly in Java and its primary use is for developing Java applications, but it may also be used to develop applications in other programming languages through the use of plugins, including: Ada, ABAP, C, C++, COBOL, Fortran, Haskell, JavaScript, Lasso, Lua, NATURAL, Perl, PHP, Prolog, Python, R, Ruby (including Ruby on Rails framework), Scala, Clojure, Groovy, Scheme, and Erlang.
+
+5-MonoDevelop
+MonoDevelop is an open source integrated development environment for Linux, OS X, and Windows. 
+Its primary focus is development of projects that use Mono and .NET frameworks. 
+MonoDevelop integrates features similar to those of NetBeans and Microsoft Visual Studio, such as automatic code completion, source control, a graphical user interface (GUI) and Web designer. 
+MonoDevelop integrates a Gtk# GUI designer called Stetic. It supports Boo, C, C++, C#, CIL, D, F#, Java, Oxygene, Vala, and Visual Basic.NET.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

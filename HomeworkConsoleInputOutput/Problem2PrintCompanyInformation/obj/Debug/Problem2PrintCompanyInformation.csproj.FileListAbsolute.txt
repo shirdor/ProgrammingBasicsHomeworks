@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\HomeworkConsoleInputOutput\Problem2PrintCompanyInformation\bin\Debug\Problem2PrintCompanyInformation.exe.config
+C:\Users\User\Desktop\HomeworkConsoleInputOutput\Problem2PrintCompanyInformation\bin\Debug\Problem2PrintCompanyInformation.exe
+C:\Users\User\Desktop\HomeworkConsoleInputOutput\Problem2PrintCompanyInformation\bin\Debug\Problem2PrintCompanyInformation.pdb
+C:\Users\User\Desktop\HomeworkConsoleInputOutput\Problem2PrintCompanyInformation\obj\Debug\Problem2PrintCompanyInformation.exe
+C:\Users\User\Desktop\HomeworkConsoleInputOutput\Problem2PrintCompanyInformation\obj\Debug\Problem2PrintCompanyInformation.pdb
+C:\Users\User\Desktop\HomeworkConsoleInputOutput\Problem2PrintCompanyInformation\obj\Debug\Problem2PrintCompanyInformation.csprojResolveAssemblyReference.cache
