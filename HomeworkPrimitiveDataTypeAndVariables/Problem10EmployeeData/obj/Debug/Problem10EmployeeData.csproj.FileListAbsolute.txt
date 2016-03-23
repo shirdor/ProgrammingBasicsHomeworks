@@ -1,6 +1,0 @@
-C:\Users\User\Desktop\HomeworkPrimitiveDataTypeAndVariables\Problem10EmployeeData\bin\Debug\Problem10EmployeeData.exe.config
-C:\Users\User\Desktop\HomeworkPrimitiveDataTypeAndVariables\Problem10EmployeeData\bin\Debug\Problem10EmployeeData.exe
-C:\Users\User\Desktop\HomeworkPrimitiveDataTypeAndVariables\Problem10EmployeeData\bin\Debug\Problem10EmployeeData.pdb
-C:\Users\User\Desktop\HomeworkPrimitiveDataTypeAndVariables\Problem10EmployeeData\obj\Debug\Problem10EmployeeData.csprojResolveAssemblyReference.cache
-C:\Users\User\Desktop\HomeworkPrimitiveDataTypeAndVariables\Problem10EmployeeData\obj\Debug\Problem10EmployeeData.exe
-C:\Users\User\Desktop\HomeworkPrimitiveDataTypeAndVariables\Problem10EmployeeData\obj\Debug\Problem10EmployeeData.pdb

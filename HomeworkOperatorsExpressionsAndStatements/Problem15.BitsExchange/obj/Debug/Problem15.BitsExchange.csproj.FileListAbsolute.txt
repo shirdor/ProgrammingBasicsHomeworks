@@ -1,6 +1,0 @@
-C:\Users\User\Desktop\HomeworkOperatorsExpressionsAndStatements\Problem15.BitsExchange\bin\Debug\Problem15.BitsExchange.exe.config
-C:\Users\User\Desktop\HomeworkOperatorsExpressionsAndStatements\Problem15.BitsExchange\bin\Debug\Problem15.BitsExchange.exe
-C:\Users\User\Desktop\HomeworkOperatorsExpressionsAndStatements\Problem15.BitsExchange\bin\Debug\Problem15.BitsExchange.pdb
-C:\Users\User\Desktop\HomeworkOperatorsExpressionsAndStatements\Problem15.BitsExchange\obj\Debug\Problem15.BitsExchange.csprojResolveAssemblyReference.cache
-C:\Users\User\Desktop\HomeworkOperatorsExpressionsAndStatements\Problem15.BitsExchange\obj\Debug\Problem15.BitsExchange.exe
-C:\Users\User\Desktop\HomeworkOperatorsExpressionsAndStatements\Problem15.BitsExchange\obj\Debug\Problem15.BitsExchange.pdb

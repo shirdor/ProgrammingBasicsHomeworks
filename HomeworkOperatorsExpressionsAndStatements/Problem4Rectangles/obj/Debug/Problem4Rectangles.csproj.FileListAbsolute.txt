@@ -1,5 +1,0 @@
-C:\Users\User\Desktop\HomeworkOperatorsExpressionsAndStatements\Problem4Rectangles\bin\Debug\Problem4Rectangles.exe.config
-C:\Users\User\Desktop\HomeworkOperatorsExpressionsAndStatements\Problem4Rectangles\bin\Debug\Problem4Rectangles.exe
-C:\Users\User\Desktop\HomeworkOperatorsExpressionsAndStatements\Problem4Rectangles\bin\Debug\Problem4Rectangles.pdb
-C:\Users\User\Desktop\HomeworkOperatorsExpressionsAndStatements\Problem4Rectangles\obj\Debug\Problem4Rectangles.exe
-C:\Users\User\Desktop\HomeworkOperatorsExpressionsAndStatements\Problem4Rectangles\obj\Debug\Problem4Rectangles.pdb

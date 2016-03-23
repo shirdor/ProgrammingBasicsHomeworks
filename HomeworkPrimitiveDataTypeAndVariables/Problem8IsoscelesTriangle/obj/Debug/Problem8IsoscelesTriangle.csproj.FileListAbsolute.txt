@@ -1,5 +1,0 @@
-C:\Users\User\Desktop\HomeworkPrimitiveDataTypeAndVariables\Problem8IsoscelesTriangle\bin\Debug\Problem8IsoscelesTriangle.exe.config
-C:\Users\User\Desktop\HomeworkPrimitiveDataTypeAndVariables\Problem8IsoscelesTriangle\bin\Debug\Problem8IsoscelesTriangle.exe
-C:\Users\User\Desktop\HomeworkPrimitiveDataTypeAndVariables\Problem8IsoscelesTriangle\bin\Debug\Problem8IsoscelesTriangle.pdb
-C:\Users\User\Desktop\HomeworkPrimitiveDataTypeAndVariables\Problem8IsoscelesTriangle\obj\Debug\Problem8IsoscelesTriangle.exe
-C:\Users\User\Desktop\HomeworkPrimitiveDataTypeAndVariables\Problem8IsoscelesTriangle\obj\Debug\Problem8IsoscelesTriangle.pdb

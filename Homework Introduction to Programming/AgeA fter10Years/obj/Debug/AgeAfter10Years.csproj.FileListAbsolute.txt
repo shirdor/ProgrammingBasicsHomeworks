@@ -1,6 +1,0 @@
-C:\Users\antonio\Desktop\Homework Introduction to Programming\AgeA fter10Years\bin\Debug\AgeA fter10Years.exe.config
-C:\Users\antonio\Desktop\Homework Introduction to Programming\AgeA fter10Years\bin\Debug\AgeA fter10Years.exe
-C:\Users\antonio\Desktop\Homework Introduction to Programming\AgeA fter10Years\bin\Debug\AgeA fter10Years.pdb
-C:\Users\antonio\Desktop\Homework Introduction to Programming\AgeA fter10Years\obj\Debug\AgeA fter10Years.exe
-C:\Users\antonio\Desktop\Homework Introduction to Programming\AgeA fter10Years\obj\Debug\AgeA fter10Years.pdb
-C:\Users\antonio\Desktop\Homework Introduction to Programming\AgeA fter10Years\obj\Debug\AgeAfter10Years.csprojResolveAssemblyReference.cache

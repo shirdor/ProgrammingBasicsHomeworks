@@ -1,6 +1,0 @@
-C:\Users\User\Desktop\HomeworkLoops\Problem2NumbersNotDivisibleBy3And7\bin\Debug\Problem2NumbersNotDivisibleBy3And7.exe.config
-C:\Users\User\Desktop\HomeworkLoops\Problem2NumbersNotDivisibleBy3And7\bin\Debug\Problem2NumbersNotDivisibleBy3And7.exe
-C:\Users\User\Desktop\HomeworkLoops\Problem2NumbersNotDivisibleBy3And7\bin\Debug\Problem2NumbersNotDivisibleBy3And7.pdb
-C:\Users\User\Desktop\HomeworkLoops\Problem2NumbersNotDivisibleBy3And7\obj\Debug\Problem2NumbersNotDivisibleBy3And7.csprojResolveAssemblyReference.cache
-C:\Users\User\Desktop\HomeworkLoops\Problem2NumbersNotDivisibleBy3And7\obj\Debug\Problem2NumbersNotDivisibleBy3And7.exe
-C:\Users\User\Desktop\HomeworkLoops\Problem2NumbersNotDivisibleBy3And7\obj\Debug\Problem2NumbersNotDivisibleBy3And7.pdb

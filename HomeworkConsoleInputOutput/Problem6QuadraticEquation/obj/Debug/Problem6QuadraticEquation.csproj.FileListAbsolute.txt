@@ -1,6 +1,0 @@
-C:\Users\User\Desktop\HomeworkConsoleInputOutput\Problem6QuadraticEquation\bin\Debug\Problem6QuadraticEquation.exe.config
-C:\Users\User\Desktop\HomeworkConsoleInputOutput\Problem6QuadraticEquation\bin\Debug\Problem6QuadraticEquation.exe
-C:\Users\User\Desktop\HomeworkConsoleInputOutput\Problem6QuadraticEquation\bin\Debug\Problem6QuadraticEquation.pdb
-C:\Users\User\Desktop\HomeworkConsoleInputOutput\Problem6QuadraticEquation\obj\Debug\Problem6QuadraticEquation.csprojResolveAssemblyReference.cache
-C:\Users\User\Desktop\HomeworkConsoleInputOutput\Problem6QuadraticEquation\obj\Debug\Problem6QuadraticEquation.exe
-C:\Users\User\Desktop\HomeworkConsoleInputOutput\Problem6QuadraticEquation\obj\Debug\Problem6QuadraticEquation.pdb

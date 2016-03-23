@@ -1,9 +1,0 @@
-C:\Users\User\Desktop\HomeworkConsoleInputOutput\Problem4NumberComparer\bin\Debug\Problem4NumberComparer.exe.config
-C:\Users\User\Desktop\HomeworkConsoleInputOutput\Problem4NumberComparer\bin\Debug\Problem4NumberComparer.exe
-C:\Users\User\Desktop\HomeworkConsoleInputOutput\Problem4NumberComparer\bin\Debug\Problem4NumberComparer.pdb
-C:\Users\User\Desktop\HomeworkConsoleInputOutput\Problem4NumberComparer\obj\Debug\Problem4NumberComparer.csprojResolveAssemblyReference.cache
-C:\Users\User\Desktop\HomeworkConsoleInputOutput\Problem4NumberComparer\obj\Debug\Problem4NumberComparer.exe
-C:\Users\User\Desktop\HomeworkConsoleInputOutput\Problem4NumberComparer\obj\Debug\Problem4NumberComparer.pdb
-C:\Users\User\Desktop\SoftUni Homewroks\Programming Basic\HomeworkConsoleInputOutput\Problem4NumberComparer\bin\Debug\Problem4NumberComparer.exe.config
-C:\Users\User\Desktop\SoftUni Homewroks\Programming Basic\HomeworkConsoleInputOutput\Problem4NumberComparer\obj\Debug\Problem4NumberComparer.exe
-C:\Users\User\Desktop\SoftUni Homewroks\Programming Basic\HomeworkConsoleInputOutput\Problem4NumberComparer\obj\Debug\Problem4NumberComparer.pdb

@@ -1,3 +1,0 @@
-C:\Users\User\Desktop\HomeworkLoops\Problem6CalculateN!K!\bin\Debug\Problem6CalculateN!K!.exe.config
-C:\Users\User\Desktop\HomeworkLoops\Problem6CalculateN!K!\obj\Debug\Problem6CalculateN!K!.exe
-C:\Users\User\Desktop\HomeworkLoops\Problem6CalculateN!K!\obj\Debug\Problem6CalculateN!K!.pdb

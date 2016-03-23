@@ -1,5 +1,0 @@
-C:\Users\User\Desktop\HomeworkPrimitiveDataTypeAndVariables\Problem7QuotesInStrings\bin\Debug\Problem7QuotesInStrings.exe.config
-C:\Users\User\Desktop\HomeworkPrimitiveDataTypeAndVariables\Problem7QuotesInStrings\bin\Debug\Problem7QuotesInStrings.exe
-C:\Users\User\Desktop\HomeworkPrimitiveDataTypeAndVariables\Problem7QuotesInStrings\bin\Debug\Problem7QuotesInStrings.pdb
-C:\Users\User\Desktop\HomeworkPrimitiveDataTypeAndVariables\Problem7QuotesInStrings\obj\Debug\Problem7QuotesInStrings.exe
-C:\Users\User\Desktop\HomeworkPrimitiveDataTypeAndVariables\Problem7QuotesInStrings\obj\Debug\Problem7QuotesInStrings.pdb

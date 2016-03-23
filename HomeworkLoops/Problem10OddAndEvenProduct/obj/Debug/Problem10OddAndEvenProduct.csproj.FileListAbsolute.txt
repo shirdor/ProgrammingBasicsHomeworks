@@ -1,6 +1,0 @@
-C:\Users\User\Desktop\HomeworkLoops\Problem10OddAndEvenProduct\bin\Debug\Problem10OddAndEvenProduct.exe.config
-C:\Users\User\Desktop\HomeworkLoops\Problem10OddAndEvenProduct\obj\Debug\Problem10OddAndEvenProduct.csprojResolveAssemblyReference.cache
-C:\Users\User\Desktop\HomeworkLoops\Problem10OddAndEvenProduct\bin\Debug\Problem10OddAndEvenProduct.exe
-C:\Users\User\Desktop\HomeworkLoops\Problem10OddAndEvenProduct\bin\Debug\Problem10OddAndEvenProduct.pdb
-C:\Users\User\Desktop\HomeworkLoops\Problem10OddAndEvenProduct\obj\Debug\Problem10OddAndEvenProduct.exe
-C:\Users\User\Desktop\HomeworkLoops\Problem10OddAndEvenProduct\obj\Debug\Problem10OddAndEvenProduct.pdb

@@ -1,5 +1,0 @@
-C:\Users\User\Desktop\HomeworkOperatorsExpressionsAndStatements\Problem5ThirdDigitIs7\bin\Debug\Problem5ThirdDigitIs7.exe.config
-C:\Users\User\Desktop\HomeworkOperatorsExpressionsAndStatements\Problem5ThirdDigitIs7\bin\Debug\Problem5ThirdDigitIs7.exe
-C:\Users\User\Desktop\HomeworkOperatorsExpressionsAndStatements\Problem5ThirdDigitIs7\bin\Debug\Problem5ThirdDigitIs7.pdb
-C:\Users\User\Desktop\HomeworkOperatorsExpressionsAndStatements\Problem5ThirdDigitIs7\obj\Debug\Problem5ThirdDigitIs7.exe
-C:\Users\User\Desktop\HomeworkOperatorsExpressionsAndStatements\Problem5ThirdDigitIs7\obj\Debug\Problem5ThirdDigitIs7.pdb

@@ -1,6 +1,0 @@
-C:\Users\User\Desktop\HomeworkConsoleInputOutput\Problem10FibonacciNumbers\bin\Debug\Problem10FibonacciNumbers.exe.config
-C:\Users\User\Desktop\HomeworkConsoleInputOutput\Problem10FibonacciNumbers\obj\Debug\Problem10FibonacciNumbers.csprojResolveAssemblyReference.cache
-C:\Users\User\Desktop\HomeworkConsoleInputOutput\Problem10FibonacciNumbers\bin\Debug\Problem10FibonacciNumbers.exe
-C:\Users\User\Desktop\HomeworkConsoleInputOutput\Problem10FibonacciNumbers\bin\Debug\Problem10FibonacciNumbers.pdb
-C:\Users\User\Desktop\HomeworkConsoleInputOutput\Problem10FibonacciNumbers\obj\Debug\Problem10FibonacciNumbers.exe
-C:\Users\User\Desktop\HomeworkConsoleInputOutput\Problem10FibonacciNumbers\obj\Debug\Problem10FibonacciNumbers.pdb

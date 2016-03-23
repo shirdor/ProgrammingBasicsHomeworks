@@ -1,5 +1,0 @@
-C:\Users\User\Desktop\HomeworkPrimitiveDataTypeAndVariables\Problem9ExchangeVariableValues\bin\Debug\Problem9ExchangeVariableValues.exe.config
-C:\Users\User\Desktop\HomeworkPrimitiveDataTypeAndVariables\Problem9ExchangeVariableValues\bin\Debug\Problem9ExchangeVariableValues.exe
-C:\Users\User\Desktop\HomeworkPrimitiveDataTypeAndVariables\Problem9ExchangeVariableValues\bin\Debug\Problem9ExchangeVariableValues.pdb
-C:\Users\User\Desktop\HomeworkPrimitiveDataTypeAndVariables\Problem9ExchangeVariableValues\obj\Debug\Problem9ExchangeVariableValues.exe
-C:\Users\User\Desktop\HomeworkPrimitiveDataTypeAndVariables\Problem9ExchangeVariableValues\obj\Debug\Problem9ExchangeVariableValues.pdb

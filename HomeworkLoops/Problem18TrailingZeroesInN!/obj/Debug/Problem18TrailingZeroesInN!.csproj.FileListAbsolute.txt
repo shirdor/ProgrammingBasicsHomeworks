@@ -1,6 +1,0 @@
-C:\Users\User\Desktop\HomeworkLoops\Problem18TrailingZeroesInN!\bin\Debug\Problem18TrailingZeroesInN!.exe.config
-C:\Users\User\Desktop\HomeworkLoops\Problem18TrailingZeroesInN!\bin\Debug\Problem18TrailingZeroesInN!.exe
-C:\Users\User\Desktop\HomeworkLoops\Problem18TrailingZeroesInN!\bin\Debug\Problem18TrailingZeroesInN!.pdb
-C:\Users\User\Desktop\HomeworkLoops\Problem18TrailingZeroesInN!\obj\Debug\Problem18TrailingZeroesInN!.csprojResolveAssemblyReference.cache
-C:\Users\User\Desktop\HomeworkLoops\Problem18TrailingZeroesInN!\obj\Debug\Problem18TrailingZeroesInN!.exe
-C:\Users\User\Desktop\HomeworkLoops\Problem18TrailingZeroesInN!\obj\Debug\Problem18TrailingZeroesInN!.pdb

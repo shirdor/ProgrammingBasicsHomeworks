@@ -1,8 +1,0 @@
-C:\Users\User\Desktop\HomeworkConsoleInputOutput\Problem3CirclePerimeterAndArea\bin\Debug\Problem3CirclePerimeterAndArea.exe.config
-C:\Users\User\Desktop\HomeworkConsoleInputOutput\Problem3CirclePerimeterAndArea\bin\Debug\Problem3CirclePerimeterAndArea.exe
-C:\Users\User\Desktop\HomeworkConsoleInputOutput\Problem3CirclePerimeterAndArea\bin\Debug\Problem3CirclePerimeterAndArea.pdb
-C:\Users\User\Desktop\HomeworkConsoleInputOutput\Problem3CirclePerimeterAndArea\obj\Debug\Problem3CirclePerimeterAndArea.exe
-C:\Users\User\Desktop\HomeworkConsoleInputOutput\Problem3CirclePerimeterAndArea\obj\Debug\Problem3CirclePerimeterAndArea.pdb
-C:\Users\User\Desktop\SoftUni Homewroks\Programming Basic\HomeworkConsoleInputOutput\Problem3CirclePerimeterAndArea\bin\Debug\Problem3CirclePerimeterAndArea.exe.config
-C:\Users\User\Desktop\SoftUni Homewroks\Programming Basic\HomeworkConsoleInputOutput\Problem3CirclePerimeterAndArea\obj\Debug\Problem3CirclePerimeterAndArea.exe
-C:\Users\User\Desktop\SoftUni Homewroks\Programming Basic\HomeworkConsoleInputOutput\Problem3CirclePerimeterAndArea\obj\Debug\Problem3CirclePerimeterAndArea.pdb

@@ -1,6 +1,0 @@
-C:\Users\User\Desktop\HomeworkPrimitiveDataTypeAndVariables\Problem13ComparingFloats\bin\Debug\Problem13ComparingFloats.exe.config
-C:\Users\User\Desktop\HomeworkPrimitiveDataTypeAndVariables\Problem13ComparingFloats\bin\Debug\Problem13ComparingFloats.exe
-C:\Users\User\Desktop\HomeworkPrimitiveDataTypeAndVariables\Problem13ComparingFloats\bin\Debug\Problem13ComparingFloats.pdb
-C:\Users\User\Desktop\HomeworkPrimitiveDataTypeAndVariables\Problem13ComparingFloats\obj\Debug\Problem13ComparingFloats.csprojResolveAssemblyReference.cache
-C:\Users\User\Desktop\HomeworkPrimitiveDataTypeAndVariables\Problem13ComparingFloats\obj\Debug\Problem13ComparingFloats.exe
-C:\Users\User\Desktop\HomeworkPrimitiveDataTypeAndVariables\Problem13ComparingFloats\obj\Debug\Problem13ComparingFloats.pdb

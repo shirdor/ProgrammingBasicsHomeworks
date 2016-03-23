@@ -1,3 +1,0 @@
-C:\Users\User\Desktop\SoftUni Homewroks\Programming Basic\HomeworkLoops\Problem1NumbersFrom1ToN\bin\Debug\Problem1NumbersFrom1ToN.exe.config
-C:\Users\User\Desktop\SoftUni Homewroks\Programming Basic\HomeworkLoops\Problem1NumbersFrom1ToN\obj\Debug\Problem1NumbersFrom1ToN.exe
-C:\Users\User\Desktop\SoftUni Homewroks\Programming Basic\HomeworkLoops\Problem1NumbersFrom1ToN\obj\Debug\Problem1NumbersFrom1ToN.pdb

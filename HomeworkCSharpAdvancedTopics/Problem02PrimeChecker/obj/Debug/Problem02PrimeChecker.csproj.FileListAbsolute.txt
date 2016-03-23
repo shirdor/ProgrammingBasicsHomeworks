@@ -1,8 +1,0 @@
-C:\Users\User\Desktop\HomeworkCSharpAdvancedTopics\Problem01FibonacciNumbers\Problem02PrimeChecker\bin\Debug\Problem02PrimeChecker.exe.config
-C:\Users\User\Desktop\HomeworkCSharpAdvancedTopics\Problem01FibonacciNumbers\Problem02PrimeChecker\bin\Debug\Problem02PrimeChecker.exe
-C:\Users\User\Desktop\HomeworkCSharpAdvancedTopics\Problem01FibonacciNumbers\Problem02PrimeChecker\bin\Debug\Problem02PrimeChecker.pdb
-C:\Users\User\Desktop\HomeworkCSharpAdvancedTopics\Problem01FibonacciNumbers\Problem02PrimeChecker\obj\Debug\Problem02PrimeChecker.exe
-C:\Users\User\Desktop\HomeworkCSharpAdvancedTopics\Problem01FibonacciNumbers\Problem02PrimeChecker\obj\Debug\Problem02PrimeChecker.pdb
-C:\Users\User\Desktop\HomeworkCSharpAdvancedTopics\Problem02PrimeChecker\bin\Debug\Problem02PrimeChecker.exe.config
-C:\Users\User\Desktop\HomeworkCSharpAdvancedTopics\Problem02PrimeChecker\obj\Debug\Problem02PrimeChecker.exe
-C:\Users\User\Desktop\HomeworkCSharpAdvancedTopics\Problem02PrimeChecker\obj\Debug\Problem02PrimeChecker.pdb

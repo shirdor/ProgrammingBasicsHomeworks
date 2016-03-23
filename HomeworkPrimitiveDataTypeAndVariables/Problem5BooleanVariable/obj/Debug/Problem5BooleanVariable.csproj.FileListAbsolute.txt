@@ -1,5 +1,0 @@
-C:\Users\User\Desktop\HomeworkPrimitiveDataTypeAndVariables\Problem5BooleanVariable\bin\Debug\Problem5BooleanVariable.exe.config
-C:\Users\User\Desktop\HomeworkPrimitiveDataTypeAndVariables\Problem5BooleanVariable\bin\Debug\Problem5BooleanVariable.exe
-C:\Users\User\Desktop\HomeworkPrimitiveDataTypeAndVariables\Problem5BooleanVariable\bin\Debug\Problem5BooleanVariable.pdb
-C:\Users\User\Desktop\HomeworkPrimitiveDataTypeAndVariables\Problem5BooleanVariable\obj\Debug\Problem5BooleanVariable.exe
-C:\Users\User\Desktop\HomeworkPrimitiveDataTypeAndVariables\Problem5BooleanVariable\obj\Debug\Problem5BooleanVariable.pdb

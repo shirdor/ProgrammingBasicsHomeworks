@@ -1,9 +1,0 @@
-C:\Users\User\Desktop\HomeworkCSharpAdvancedTopics\Problem01FibonacciNumbers\Problem01FibonacciNumbers\bin\Debug\Problem01FibonacciNumbers.exe.config
-C:\Users\User\Desktop\HomeworkCSharpAdvancedTopics\Problem01FibonacciNumbers\Problem01FibonacciNumbers\bin\Debug\Problem01FibonacciNumbers.exe
-C:\Users\User\Desktop\HomeworkCSharpAdvancedTopics\Problem01FibonacciNumbers\Problem01FibonacciNumbers\bin\Debug\Problem01FibonacciNumbers.pdb
-C:\Users\User\Desktop\HomeworkCSharpAdvancedTopics\Problem01FibonacciNumbers\Problem01FibonacciNumbers\obj\Debug\Problem01FibonacciNumbers.csprojResolveAssemblyReference.cache
-C:\Users\User\Desktop\HomeworkCSharpAdvancedTopics\Problem01FibonacciNumbers\Problem01FibonacciNumbers\obj\Debug\Problem01FibonacciNumbers.exe
-C:\Users\User\Desktop\HomeworkCSharpAdvancedTopics\Problem01FibonacciNumbers\Problem01FibonacciNumbers\obj\Debug\Problem01FibonacciNumbers.pdb
-C:\Users\User\Desktop\HomeworkCSharpAdvancedTopics\Problem01FibonacciNumbers\bin\Debug\Problem01FibonacciNumbers.exe.config
-C:\Users\User\Desktop\HomeworkCSharpAdvancedTopics\Problem01FibonacciNumbers\obj\Debug\Problem01FibonacciNumbers.exe
-C:\Users\User\Desktop\HomeworkCSharpAdvancedTopics\Problem01FibonacciNumbers\obj\Debug\Problem01FibonacciNumbers.pdb

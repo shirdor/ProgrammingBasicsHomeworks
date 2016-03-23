@@ -1,5 +1,0 @@
-C:\Users\User\Desktop\HomeworkConsoleInputOutput\Problem8NumbersFrom1ToN\bin\Debug\Problem8NumbersFrom1ToN.exe.config
-C:\Users\User\Desktop\HomeworkConsoleInputOutput\Problem8NumbersFrom1ToN\bin\Debug\Problem8NumbersFrom1ToN.exe
-C:\Users\User\Desktop\HomeworkConsoleInputOutput\Problem8NumbersFrom1ToN\bin\Debug\Problem8NumbersFrom1ToN.pdb
-C:\Users\User\Desktop\HomeworkConsoleInputOutput\Problem8NumbersFrom1ToN\obj\Debug\Problem8NumbersFrom1ToN.exe
-C:\Users\User\Desktop\HomeworkConsoleInputOutput\Problem8NumbersFrom1ToN\obj\Debug\Problem8NumbersFrom1ToN.pdb

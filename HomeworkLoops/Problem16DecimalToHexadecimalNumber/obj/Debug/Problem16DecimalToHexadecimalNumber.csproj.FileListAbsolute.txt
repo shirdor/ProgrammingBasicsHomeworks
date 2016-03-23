@@ -1,6 +1,0 @@
-C:\Users\User\Desktop\HomeworkLoops\Problem16DecimalToHexadecimalNumber\bin\Debug\Problem16DecimalToHexadecimalNumber.exe.config
-C:\Users\User\Desktop\HomeworkLoops\Problem16DecimalToHexadecimalNumber\bin\Debug\Problem16DecimalToHexadecimalNumber.exe
-C:\Users\User\Desktop\HomeworkLoops\Problem16DecimalToHexadecimalNumber\bin\Debug\Problem16DecimalToHexadecimalNumber.pdb
-C:\Users\User\Desktop\HomeworkLoops\Problem16DecimalToHexadecimalNumber\obj\Debug\Problem16DecimalToHexadecimalNumber.csprojResolveAssemblyReference.cache
-C:\Users\User\Desktop\HomeworkLoops\Problem16DecimalToHexadecimalNumber\obj\Debug\Problem16DecimalToHexadecimalNumber.exe
-C:\Users\User\Desktop\HomeworkLoops\Problem16DecimalToHexadecimalNumber\obj\Debug\Problem16DecimalToHexadecimalNumber.pdb

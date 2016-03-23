@@ -1,3 +1,0 @@
-C:\Users\User\Desktop\HomeworkLoops\Problem5Calculate\bin\Debug\Problem5Calculate.exe.config
-C:\Users\User\Desktop\HomeworkLoops\Problem5Calculate\obj\Debug\Problem5Calculate.exe
-C:\Users\User\Desktop\HomeworkLoops\Problem5Calculate\obj\Debug\Problem5Calculate.pdb
